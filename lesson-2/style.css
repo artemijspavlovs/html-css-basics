@@ -5,3 +5,17 @@
 .color-red {
     color: red;
 }
+
+.css-box-model {
+    border: 5px solid red;
+    text-align: center;
+    /* all even */
+    padding: 20px;
+    /* top/bottom - left/right */
+    /* padding: 20px 10px; */
+    /* top - right - bottom - left */
+    /* padding: 100px 10px 200px 50px; */
+    
+    /* margin works the same way */
+    margin: 40px;
+}
