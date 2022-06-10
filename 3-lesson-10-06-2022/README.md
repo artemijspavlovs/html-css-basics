@@ -16,6 +16,9 @@ cd $DIRECTORY_PATH
 # git clone - copies remote repository to local
 git clone $REPOSITORY_URL
 
+ls
+cd $REPOSITORY_NAME
+
 # config git credentials
 git config user.email $EMAIL
 git config user.name $NICKNAME
