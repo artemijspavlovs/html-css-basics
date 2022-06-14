@@ -3,3 +3,11 @@ Previous Homework:
 
 Goal for today:
 - [ ] introduction to `pull`, `commit`, `push`
+
+```sh
+# check local changes
+git status
+
+# pull remote repo copy to local
+git pull
+```
