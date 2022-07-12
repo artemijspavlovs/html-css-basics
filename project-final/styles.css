@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(116, 122, 197);
+    font-family: 'Caveat', cursive;
+}
+html {
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7) url('Longcheer_Yacht_Club.jpg');
+    background-position: center;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    color: aqua;
+    text-align: center;
+    padding: 70px;
+    font-size: xx-large;
+    font-family: 'Dancing Script', cursive;
+}
+#text1 {
+    text-align: right;
+}
+
+.css-box-model {
+    border-color:  rgb(13, 72, 131);
+}
