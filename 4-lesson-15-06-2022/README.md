@@ -11,3 +11,7 @@ git status
 # pull remote repo copy to local
 git pull
 ```
+
+Homework for next time:
+- [ ] Move final project files into `project-final` folder
+- [ ] Continue with final project
