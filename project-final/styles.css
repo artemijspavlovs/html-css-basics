@@ -17,10 +17,11 @@ p {
     font-size: xx-large;
     font-family: 'Dancing Script', cursive;
 }
-#text1 {
+.css-box-model {
+    border-color: blue;
+    text-decoration: none;
+    color: cadetblue;
+    font-family: 'Dancing Script', cursive;   
     text-align: right;
 }
 
-.css-box-model {
-    border-color:  rgb(13, 72, 131);
-}

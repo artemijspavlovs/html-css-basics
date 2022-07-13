@@ -1,18 +1,26 @@
 h1 {
     color: rgb(116, 122, 197);
-    font-family: 'Caveat', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 .text-color {
     color: aqua;
-    font-family: 'Dancing Script', cursive ;
-    
-    
+    font-family: 'Playfair Display', serif;
 }
-
-
-
-.css-box-model {
-    border-color:  rgb(13, 72, 131);
+ .css-box-model {
+    border-color: blue;
+    text-decoration: none;
+    color: cadetblue;
+font-family: 'Dancing Script', cursive;     
 }
-
+.coutainer {
+display: flex;
+flex-wrap: nowrap;
+justify-content: space-between;
+}
+.image {
+    flex-grow: 4;
+}
+.text-color{
+    flex-grow: 1;
+}
