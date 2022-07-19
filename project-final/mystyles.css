@@ -13,14 +13,24 @@ h1 {
     color: cadetblue;
 font-family: 'Dancing Script', cursive;     
 }
-.coutainer {
-display: flex;
-flex-wrap: nowrap;
-justify-content: space-between;
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
 }
-.image {
-    flex-grow: 4;
+
+.image {}
+
+.text-color {
+    width: 300px;
 }
 .text-color{
     flex-grow: 1;
+    font-family: 'Dancing Script', cursive;
+}
+
+.css-box-model {
+    border-color: rgb(13, 72, 131);
+    text-decoration: none;
+    color: #fff;
 }

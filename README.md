@@ -24,7 +24,24 @@
     - change font size
 - [ ] CSS Box model
 
-### Day 3
-- [ ] 
+### Day 3 [2022-07-13]
+- [ ] CSS FlexBox (https://flexboxfroggy.com/)
 
-### Day 4
+### Day 4 [2022-07-14]
+- [ ] [CSS Transitions](https://thoughtbot.com/blog/transitions-and-transforms)
+- [ ] [CSS Animation](https://thoughtbot.com/blog/css-animation-for-beginners)
+
+Useful Animation Resources:
+
+[animation.style](https://animate.style) - css library with pre-created transitions
+
+[loading.io](https://loading.io) - a set of free & paid loading animations
+
+
+> finish final project with this knowledge
+
+### Day 5 []
+
+- [ ] Design Systems (https://material.io/design)
+- [ ] Tailwind CSS
+- [ ] SASS
