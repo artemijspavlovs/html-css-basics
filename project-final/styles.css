@@ -1,7 +1,8 @@
-h1 {
+.logo-text {
     color: rgb(116, 122, 197);
     font-family: 'Caveat', cursive;
 }
+
 html {
     height: 100%;
     background: rgba(0, 0, 0, 0.7) url('Longcheer_Yacht_Club.jpg');
@@ -10,6 +11,7 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 p {
     color: aqua;
     text-align: center;
@@ -17,11 +19,12 @@ p {
     font-size: xx-large;
     font-family: 'Dancing Script', cursive;
 }
-.css-box-model {
+
+.button {
+    margin: 4px 8px;
+    color: cadetblue;
     border-color: blue;
     text-decoration: none;
-    color: cadetblue;
-    font-family: 'Dancing Script', cursive;   
-    text-align-last: right;
-}
 
+    font-family: 'Dancing Script', cursive;
+}
