@@ -22,6 +22,6 @@ p {
     text-decoration: none;
     color: cadetblue;
     font-family: 'Dancing Script', cursive;   
-    text-align: right;
+    text-align-last: right;
 }
 
