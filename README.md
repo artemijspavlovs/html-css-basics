@@ -27,7 +27,17 @@
 ### Day 3 [2022-07-13]
 - [ ] CSS FlexBox (https://flexboxfroggy.com/)
 
-### Day 4 [2022-07-14]
+### Day 4 [2022-07-19]
+- [ ] Final project follow up
+- [ ] Flexbox questions
+
+### Day 4 [2022-07-21]
+
+- [ ] `.prettier`
+- [ ] `.gitignore`
+- [ ] `format on save`
+
+### Day 5 [2022-07-21]
 - [ ] [CSS Transitions](https://thoughtbot.com/blog/transitions-and-transforms)
 - [ ] [CSS Animation](https://thoughtbot.com/blog/css-animation-for-beginners)
 
@@ -39,8 +49,7 @@ Useful Animation Resources:
 
 
 > finish final project with this knowledge
-
-### Day 5 []
+### Day 6 [2022-07]
 
 - [ ] Design Systems (https://material.io/design)
 - [ ] Tailwind CSS
