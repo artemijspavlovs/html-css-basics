@@ -34,12 +34,11 @@
 ### Day 4 [2022-07-21]
 
 - [ ] `.prettier`
-- [ ] `.gitignore`
-- [ ] `format on save`
+- [x] `format on save`
 
 ### Day 5 [2022-07-21]
-- [ ] [CSS Transitions](https://thoughtbot.com/blog/transitions-and-transforms)
-- [ ] [CSS Animation](https://thoughtbot.com/blog/css-animation-for-beginners)
+    - [x] [CSS Transitions](https://thoughtbot.com/blog/transitions-and-transforms)
+    - [x] [CSS Animation](https://thoughtbot.com/blog/css-animation-for-beginners)
 
 Useful Animation Resources:
 
@@ -47,10 +46,24 @@ Useful Animation Resources:
 
 [loading.io](https://loading.io) - a set of free & paid loading animations
 
-
 > finish final project with this knowledge
 ### Day 6 [2022-07]
 
-- [ ] Design Systems (https://material.io/design)
-- [ ] Tailwind CSS
 - [ ] SASS
+- [ ] Tailwind CSS
+
+- [ ] Design System
+
+- [ ] `.gitignore`
+
+### Day 7
+
+- [ ] Intro to React
+    - nextjs
+    - vanilla
+- [ ] Intro to Vue
+
+### Future
+
+- [ ] Backend
+- [ ] Cloud and Hosting
