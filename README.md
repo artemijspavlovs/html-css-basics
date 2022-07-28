@@ -55,11 +55,12 @@ Useful Animation Resources:
 sass --watch styles.sass ./styles/sass-example.css
 ```
 
-- [ ] [Tailwind CSS]()
+- [ ] [Tailwind CSS](https://tailwindcss.com/docs/installation)
 
 - [ ] Design System
 
 - [ ] `.gitignore`
+    - [git ignore generator](https://www.toptal.com/developers/gitignore)
 
 ### Day 7
 
