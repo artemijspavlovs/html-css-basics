@@ -47,10 +47,15 @@ Useful Animation Resources:
 [loading.io](https://loading.io) - a set of free & paid loading animations
 
 > finish final project with this knowledge
-### Day 6 [2022-07]
+### Day 6 [2022-07-28]
 
-- [ ] SASS
-- [ ] Tailwind CSS
+- [ ] npm
+- [ ] [SASS](https://sass-lang.com/guide)
+```
+sass --watch styles.sass ./styles/sass-example.css
+```
+
+- [ ] [Tailwind CSS]()
 
 - [ ] Design System
 
