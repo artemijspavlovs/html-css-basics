@@ -1,5 +1,21 @@
 # Web Development Workshop
 
+## Things that are used in this workshop
+
+### Software
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Nodejs](https://nodejs.org/en/)
+- [SASS](https://sass-lang.com/)
+- [Post CSS](https://postcss.org/)
+
+### Visual Studio Code Extensions
+
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+## Days
+
 ### Day 1
 
 - [ ] What's HTML
@@ -47,10 +63,12 @@ Useful Animation Resources:
 [loading.io](https://loading.io) - a set of free & paid loading animations
 
 > finish final project with this knowledge
+
 ### Day 6 [2022-07-28]
 
 - [ ] npm
 - [ ] [SASS](https://sass-lang.com/guide)
+
 ```
 sass --watch styles.sass ./styles/sass-example.css
 ```
