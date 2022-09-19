@@ -1,0 +1,11 @@
+h1 {
+  color: red;
+}
+h1.bigger {
+  font-size: 120px;
+}
+h1.smaller {
+  font-size: 12px;
+}
+
+/*# sourceMappingURL=output.css.map */

@@ -49,7 +49,6 @@
 
 ### Day 4 [2022-07-21]
 
-- [ ] `.prettier`
 - [x] `format on save`
 
 ### Day 5 [2022-07-21]
@@ -67,6 +66,8 @@ Useful Animation Resources:
 ### Day 6 [2022-07-28]
 
 - [ ] npm
+- [ ] `.prettier`
+- [ ] [PostCSS](https://postcss.org/)
 - [ ] [SASS](https://sass-lang.com/guide)
 
 ```
@@ -74,6 +75,9 @@ sass --watch styles.sass ./styles/sass-example.css
 ```
 
 - [ ] [Tailwind CSS](https://tailwindcss.com/docs/installation)
+
+
+### Website Design & Design systems
 
 - [ ] Design System
 
@@ -83,11 +87,10 @@ sass --watch styles.sass ./styles/sass-example.css
 ### Day 7
 
 - [ ] Intro to React
-    - nextjs
-    - vanilla
 - [ ] Intro to Vue
 
 ### Future
 
 - [ ] Backend
 - [ ] Cloud and Hosting
+- [ ] SSR Frameworks - Next / Nuxt
