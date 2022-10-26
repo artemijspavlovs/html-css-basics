@@ -1,0 +1,140 @@
+#shapes {
+    margin-top: 25px;
+    display: flex;
+}
+
+#hexagon {
+    width: 25px;
+    height: 13.75px;
+    background: limegreen;
+    position: relative;
+}
+
+#hexagon:before,
+#hexagon:after {
+    content: "";
+    position: absolute;
+    border-left: 12.5px solid transparent;
+    border-right: 12.5px solid transparent;
+    left: 0;
+}
+
+#hexagon:before {
+    top: -6.25px;
+    border-bottom: 6.25px solid limegreen;
+}
+
+#hexagon:after {
+    bottom: -6.25px;
+    border-top: 6.25px solid limegreen;
+}
+
+#hexagon:before,
+#hexagon:after,
+#diamond,
+#diamond:after,
+#star,
+#star-before,
+#star-after {
+    width: 0;
+    height: 0;
+}
+
+#diamond {
+    border: 12.5px solid transparent;
+    border-bottom-color: steelblue;
+    position: relative;
+    text-indent: -7px;
+    top: -15.5px;
+}
+
+#diamond:after {
+    content: '';
+    position: absolute;
+    left: -12.5px;
+    top: 12.5px;
+    border: 12.5px solid transparent;
+    border-top-color: steelblue;
+}
+
+#circle {
+    padding-top: 3px;
+    background: turquoise;
+    border-radius: 12.5px;
+}
+
+#square {
+    background: orange;
+}
+
+#trapezoid {
+    border-bottom: 25px solid red;
+    border-left: 6.5px solid transparent;
+    border-right: 6.5px solid transparent;
+    height: 0;
+    width: 20px;
+}
+
+#tab {
+    height: 25px;
+    width: 35px;
+    background: lightgray;
+    position: relative;
+    border-top-right-radius: 25%;
+    border-bottom-right-radius: 25%;
+}
+
+#diamond,
+#circle,
+#square,
+#trapezoid,
+#tab,
+#star {
+    margin-left: 5px;
+}
+
+#circle,
+#square {
+    width: 25px;
+    height: 20px;
+    padding-top: 3px;
+}
+
+#square,
+#tab {
+    text-align: center;
+}
+
+#star {
+    margin: 5px 0;
+    position: relative;
+    display: block;
+    border-right: 25px solid transparent;
+    border-bottom: 17.5px solid gray;
+    border-left: 25px solid transparent;
+    transform: rotate(35deg);
+}
+
+#star:before {
+    border-bottom: 20px solid gray;
+    border-left: 7.5px solid transparent;
+    border-right: 7.5px solid transparent;
+    position: absolute;
+    top: -11.25px;
+    left: -16.25px;
+    display: block;
+    content: '';
+    transform: rotate(-35deg);
+}
+
+#star:after {
+    position: absolute;
+    display: block;
+    top: 0.75px;
+    left: -26.25px;
+    border-right: 25px solid transparent;
+    border-bottom: 17.5px solid gray;
+    border-left: 25px solid transparent;
+    transform: rotate(-70deg);
+    content: '';
+}
